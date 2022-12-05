@@ -1,3 +1,3 @@
-# cautious-octo-garbanzo
+# Simple web scraping using python with scheduling timeframes.
 Side project for DE
-Simple web scraping using python 
+
