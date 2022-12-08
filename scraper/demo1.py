@@ -4,7 +4,7 @@ import psycopg2
 
 #Establishing the connection
 conn = psycopg2.connect(
-   database="postgres", user='postgres', password='Abc1234$', port='5432')
+   database="postgres", user='postgres', password='yourpassword', port='5432')
 
 
 conn.autocommit = True
