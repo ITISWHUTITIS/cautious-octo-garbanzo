@@ -3,7 +3,7 @@ import psycopg2
 
 #Establishing the connection
 conn = psycopg2.connect(
-   database="postgres", user='postgres', password='Abc1234$', port= '5432'
+   database="postgres", user='postgres', password='password', port= '5432'
 )
 #Creating a cursor object using the cursor() method
 cursor = conn.cursor()
