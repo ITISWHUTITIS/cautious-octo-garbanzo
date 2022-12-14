@@ -1,3 +1,3 @@
-# Simple web scraping using python with scheduling timeframes.
+# Simple web scraping using scrapy with scheduling timeframes.
 Side project for DE
 
